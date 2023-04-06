@@ -1,0 +1,17 @@
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\bin\Debug\net6.0-windows\GPAX.Natthawan.exe
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\bin\Debug\net6.0-windows\GPAX.Natthawan.deps.json
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\bin\Debug\net6.0-windows\GPAX.Natthawan.runtimeconfig.json
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\bin\Debug\net6.0-windows\GPAX.Natthawan.dll
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\bin\Debug\net6.0-windows\GPAX.Natthawan.pdb
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.csproj.AssemblyReference.cache
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.Form1.resources
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.csproj.GenerateResource.cache
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.AssemblyInfoInputs.cache
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.AssemblyInfo.cs
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.csproj.CoreCompileInputs.cache
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.dll
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\refint\GPAX.Natthawan.dll
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.pdb
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\GPAX.Natthawan.genruntimeconfig.cache
+C:\Users\NATTHAWAN\Documents\GitHub\ClassGPAX\GPAX.Natthawan\GPAX.Natthawan\obj\Debug\net6.0-windows\ref\GPAX.Natthawan.dll
